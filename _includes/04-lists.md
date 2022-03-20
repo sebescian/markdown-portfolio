@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Bananas 🍌
+2. Citrus 
+    1. Orange 🍊
+    2. Lemons 🍋
